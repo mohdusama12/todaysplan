@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todaysplan/static/css/main.3679292c.css",
+    "main.js": "/todaysplan/static/js/main.6e062951.js",
+    "static/js/787.d9d71a2b.chunk.js": "/todaysplan/static/js/787.d9d71a2b.chunk.js",
+    "index.html": "/todaysplan/index.html",
+    "main.3679292c.css.map": "/todaysplan/static/css/main.3679292c.css.map",
+    "main.6e062951.js.map": "/todaysplan/static/js/main.6e062951.js.map",
+    "787.d9d71a2b.chunk.js.map": "/todaysplan/static/js/787.d9d71a2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3679292c.css",
+    "static/js/main.6e062951.js"
+  ]
+}
